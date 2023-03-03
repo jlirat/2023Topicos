@@ -13,3 +13,10 @@ Oscar Iván Noh Garma - OscarNohGarma
 Roberto Carlos May Vergara - RobertoMay
 Berenise Antonia Ku Centeno - BereniseCenteno
 Crismar de Jesús Chan Chin - CrismarChan
+
+# Los Bymax
+
+Ariadna Paola Kantun Pat - AriadnaKantun
+Elisandra Guadalupe Puch Uc - EliPuch
+Dylan Fernando Ek Mas - Ferek2308
+Adiel Eduardo Uc Peralta - Adiel2418

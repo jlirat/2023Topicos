@@ -7,12 +7,12 @@ Lista de Colaboradores
 - Alejandra Guadalupe Cituk Burgos
 - Carlos Fernando Chan Cauich
 
-# Los negociadores
+## Los negociadores
 
-Oscar Iván Noh Garma - OscarNohGarma
-Roberto Carlos May Vergara - RobertoMay
-Berenise Antonia Ku Centeno - BereniseCenteno
-Crismar de Jesús Chan Chin - CrismarChan
+- Oscar Iván Noh Garma - OscarNohGarma
+- Roberto Carlos May Vergara - RobertoMay
+- Berenise Antonia Ku Centeno - BereniseCenteno
+- Crismar de Jesús Chan Chin - crismarchan
 
 # Innovatec
 Carlos Daniel Quintal Pech - Usuario Colaborador: quint4l

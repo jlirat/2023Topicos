@@ -19,3 +19,10 @@ Carlos Daniel Quintal Pech - Usuario Colaborador: quint4l
 Alan Antony Puc Yam - Usuario: WoolyOvel
 Jesus Eduardo Huchin Yeh - Usuario: jesushuchin
 Gildardo David Rubalcaba Cauich - Usuario: gildardo13
+
+# 4 MONOS
+
+- Kevin Efren Yam Huicab - KevinYam22
+- Alan Omar Tejeda Flores - Alanf0305
+- Josué Domingo Uicab Tamay - Josue0311
+- Edwin Manuel Ruz Uhu - EdwinRuz0

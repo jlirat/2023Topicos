@@ -13,3 +13,8 @@ Oscar Iván Noh Garma - OscarNohGarma
 Roberto Carlos May Vergara - RobertoMay
 Berenise Antonia Ku Centeno - BereniseCenteno
 Crismar de Jesús Chan Chin - CrismarChan
+#Los Retrasados
+Pedro Raul Chi Ek
+Ricardo Antonio Soto Beh
+Jesus Roberto Canul Cocom
+Ashly Nayive Uc Berzunsa

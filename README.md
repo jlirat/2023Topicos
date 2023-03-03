@@ -15,7 +15,19 @@ Roberto Carlos May Vergara - RobertoMay
 Berenise Antonia Ku Centeno - BereniseCenteno
 Crismar de Jesús Chan Chin - CrismarChan
 
+
+
+# Los Bymaxs
+
+- Ariadna Paola Kantun Pat - AriadnaKantun
+- Elisandra Guadalupe Puch Uc - EliPuch
+- Dylan Fernando Ek Mas - Ferek2308
+- Adiel Eduardo Uc Peralta - Adiel2418
+
+# Innovatec
+
 ## Innovatec
+
 Carlos Daniel Quintal Pech - Usuario Colaborador: quint4l
 Alan Antony Puc Yam - Usuario: WoolyOvel
 Jesus Eduardo Huchin Yeh - Usuario: jesushuchin

@@ -2,6 +2,14 @@
 Lista de Colaboradores
 
 
+
+# Los atrasados
+Pedro Raul Chi Ek
+Ricardo Antonio Soto Beh
+Jesus Roberto Canul Cocom
+Ashly Nayive Uc Berzunsa
+
+
 ## Equipo TotalFood:
 - Carlos Isidoro Hernandez Rodriguez - Usuario Colaborador: AkujinPas
 - Cecilia Guadalupe Herrera Linarez - Usuario: GuadalupeH86
@@ -35,4 +43,5 @@ Gildardo David Rubalcaba Cauich - Usuario: gildardo13
 - Alan Omar Tejeda Flores - Alanf0305
 - Josué Domingo Uicab Tamay - Josue0311
 - Edwin Manuel Ruz Uhu - EdwinRuz0
+
 

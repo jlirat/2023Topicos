@@ -1,7 +1,8 @@
 # 2023Topicos
 Lista de Colaboradores
 
-Carlos Isidoro Hernandez Rodriguez - Usuario Colaborador: AkujinPas
-Cecilia Guadalupe Herrera Linarez
-Alejandra Guadalupe Cituk Burgos
-Carlos Fernando Chan Cauich
+Equipo TotalFood:
+- Carlos Isidoro Hernandez Rodriguez - Usuario Colaborador: AkujinPas
+- Cecilia Guadalupe Herrera Linarez - Usuario: GuadalupeH86
+- Alejandra Guadalupe Cituk Burgos - Usuario: Alejandra6594
+- Carlos Fernando Chan Cauich - Usuario: Fernandochan28

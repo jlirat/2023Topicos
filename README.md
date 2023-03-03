@@ -10,10 +10,10 @@ Lista de Colaboradores
 
 ## Los negociadores
 
-Oscar Iván Noh Garma - OscarNohGarma
-Roberto Carlos May Vergara - RobertoMay
-Berenise Antonia Ku Centeno - BereniseCenteno
-Crismar de Jesús Chan Chin - CrismarChan
+- Oscar Iván Noh Garma - OscarNohGarma
+- Roberto Carlos May Vergara - RobertoMay
+- Berenise Antonia Ku Centeno - BereniseCenteno
+- Crismar de Jesús Chan Chin - crismarchan
 
 ## Los Bymaxs
 

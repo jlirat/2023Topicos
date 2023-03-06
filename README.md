@@ -33,7 +33,7 @@ Ashly Nayive Uc Berzunsa
 ## Innovatec
 
 - Carlos Daniel Quintal Pech - Usuario Colaborador: quint4l
-- Alan Antony Puc Yam - Usuario: WoolyOvel
+- Alan Antony Puc Yam - Usuario: WoolyOlvel
 - Jesus Eduardo Huchin Yeh - Usuario: jesushuchin
 - Gildardo David Rubalcaba Cauich - Usuario: gildardo13
 
